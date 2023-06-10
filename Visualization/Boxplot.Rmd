@@ -1,6 +1,6 @@
 ---
-title: "Function-AED-UAS"
-author: "Angga Fathan Rofiqy"
+title: "Function-Box-Plot"
+author: "Zen Rofiqy"
 date: "`r Sys.Date()`"
 output:
   word_document: default
